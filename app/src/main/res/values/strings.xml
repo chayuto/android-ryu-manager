@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RYU Manager</string>
+    <string name="connect">Connect</string>
+    <string name="UITextRemember">Remember Controller Address</string>
+</resources>
